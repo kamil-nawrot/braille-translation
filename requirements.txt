@@ -23,9 +23,8 @@ lazy-object-proxy==1.4.3
 Markdown==3.3.2
 matplotlib==3.2.1
 mccabe==0.6.1
-morfeusz2==0.4.0
 nltk==3.5
-numpy==1.18.4
+numpy==1.19.3
 oauthlib==3.1.0
 opt-einsum==3.3.0
 pandas==1.0.3
